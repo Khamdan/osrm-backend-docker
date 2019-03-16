@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:bionic
 MAINTAINER Alex Newman <alex@newman.pro>
 
 # Let the container know that there is no TTY
